@@ -4,7 +4,7 @@ A fast, fully custom author website built entirely in vanilla HTML, CSS, and Jav
 
 **Live site:** [teutametra.com](https://teutametra.com)
 
-![Teuta Metra website](./Marve.png)
+![Teuta Metra website](./homepage-screenshot.png)
 
 ## Why vanilla JS
 
