@@ -1,4 +1,4 @@
-# Teuta Metra — Official Author Website
+# Teuta Metra - Official Author Website
 
 Official website for author Teuta Metra, showcasing her books 
 and providing a way for readers to connect.
